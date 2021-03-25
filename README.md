@@ -1,3 +1,11 @@
+## S3 link
+http://laptop-shop-app.s3-website-eu-west-1.amazonaws.com/
+
+## Cloudfront link
+https://d3ec8cffgyoqsa.cloudfront.net/
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
